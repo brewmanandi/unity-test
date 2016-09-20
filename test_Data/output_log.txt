@@ -14,7 +14,7 @@ Platform assembly: C:\Users\brew\Documents\GitHub\unity-test\test_Data\Managed\U
 Loading C:\Users\brew\Documents\GitHub\unity-test\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\brew\Documents\GitHub\unity-test\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\brew\Documents\GitHub\unity-test\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.566 seconds
+- Completed reload, in  0.137 seconds
 Platform assembly: C:\Users\brew\Documents\GitHub\unity-test\test_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\brew\Documents\GitHub\unity-test\test_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on OVRScreenFade
@@ -27,6 +27,6 @@ desktop: 5120x2880 60Hz; virtual: 11947x2880 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.234279 ms
+UnloadTime: 0.702621 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1428 -> priority: 1 
+  Thread -> id: 2e80 -> priority: 1 
